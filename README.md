@@ -50,7 +50,6 @@ Allows users to slice between 1000 cryptocurrencies and view the symbol, logo, p
 Graphs show the top 10 cryptocurrency rise and loss in terms of percentage in the past 24 hours. The graphs are limited to the top 100 largest coins by market cap to avoid distortion from smaller volume coins with large percentage changes.
 
 ## Power BI Report:
+This report can be viewed and interacted with [Here.](https://app.powerbi.com/view?r=eyJrIjoiZTNmZmJiM2ItOTIyNS00NTlmLTk0MmUtNzRmMDQ2MzUxZjdhIiwidCI6IjYyMDRjNjEwLTZmYjUtNGQwNi04YzA0LWEyMWJkMDFmMmU0NSIsImMiOjF9)
 
 <img width="1324" height="765" alt="image" src="https://github.com/user-attachments/assets/760b5454-33a6-43a7-a09c-fba992988792" />
-
-This report can be viewed and interacted with [Here.](https://app.powerbi.com/view?r=eyJrIjoiZTNmZmJiM2ItOTIyNS00NTlmLTk0MmUtNzRmMDQ2MzUxZjdhIiwidCI6IjYyMDRjNjEwLTZmYjUtNGQwNi04YzA0LWEyMWJkMDFmMmU0NSIsImMiOjF9)
