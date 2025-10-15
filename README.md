@@ -1,4 +1,4 @@
-# Crypto-API-ETL-Pipeline-Project
+# Crypto API ETL Pipeline Project
 This project develops an end-to-end data pipelione to collect and visualizes real-time cryptocurrency market data using the CoinGecko API, Python, MySQL, and Power BI.
 
 # Overview
