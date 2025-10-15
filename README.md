@@ -1,5 +1,5 @@
-# Crypto-API-Project
-This project collects and visualizes real-time cryptocurrency market data using the CoinGecko API, Python, MySQL, and Power BI.
+# Crypto-API-Project1
+This project develops an end-to-end data pipelione to collect and visualizes real-time cryptocurrency market data using the CoinGecko API, Python, MySQL, and Power BI.
 
 CoinGecko Cryptocurrency Data Analytics Dashboard
 
